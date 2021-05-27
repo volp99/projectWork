@@ -1,0 +1,269 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --navbar-color: #2C2C3C;
+    --btn-primary-color: #F4A261;
+    --backgound-card-color: #E5E5E5;
+    --background-box-cisterne: #fce3cf;
+    --black-color: black;
+    --white-color:white;
+    --green-section: #10AD4F;
+    --yellow-section: #FFCC00;
+    --red-section: #CC3300;
+    --green-backgound-cisterna: #7ddf64;
+    --yellow-backgound-cisterna: #ffefb1;
+    --red-background-cisterna: #f78d8d;
+}
+/*    FLEX ZONE   */
+.flex-center{
+    display:flex;
+    flex-flow: row;
+    justify-content:center;
+    align-items: center;
+}
+.flex-center-end{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-content: center;
+    align-items: flex-end;
+}
+.flex-left-column{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    align-items: center;
+}
+/*      HOMEPAGE    */
+.container_home{
+    width:100%;
+    height: 93.5vh;
+    background-size: 105%;
+}
+.title{
+    height:25vh;
+}
+.title img{
+    width:8%;
+    margin:10px;
+}
+.log{
+    height:10vh;
+}
+.log h3{
+    font-size:22px;
+    font-weight:600;
+}
+.btn-home{
+    height:20vh;
+}
+.btn-home button{
+    width:150px;
+    height:50px;
+    margin:20px;
+    font-size:16px;
+    border-radius: 5px;
+    border:none;
+    background-color:var(--btn-primary-color);
+    color: var(--black-color);
+    font-weight: 500;
+    box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+.btn-home button:active{
+    background-color:var(--navbar-color);
+}
+.btn-home button:hover{
+    color:var(--white-color)
+}
+.footer-home{
+    height: 20vh;
+}
+/*      ASSISTENZA E SUPPORTO */
+.assistence li,.support li{
+    margin:15px;
+    list-style: circle;
+}
+.support li{
+    font-size: 16px;
+}
+#right{
+    margin-left: 6px;
+}
+/* GRUPPO UNO E DUE */
+.tab{
+    width: 230px;
+    height: 550px;
+    margin: 25px;
+}
+.tab_name{
+     border-radius: 20px;
+    text-align: center;
+    background-color:var(--btn-primary-color);
+    height: 50px;
+    margin-bottom: 20px;
+}
+.tab_el{
+    height: 400px;
+    width: 230px;
+    background-color: var(--background-box-cisterne);
+    border-radius: 20px;
+    text-align: center;
+}
+.nav_manager{
+    width: 230px;
+    background-color: var(--navbar-color);
+    border-radius: 0 20px 20px 0;
+    text-align: center;
+}
+#data{
+    margin: 9px;
+}
+#icon-plus{
+    margin-right: -40px;
+}
+#cisterna_soglia{
+    width:350px;
+    height:50px;
+    background-color: var(--white-color);
+    border-radius: 20px;
+    display:flex;
+    align-items: center;
+    float: left;
+    margin: 10px 0px 0px 65px;
+
+}
+#icon{
+    display:flex;
+    align-items: center;
+}
+.site-card-border-less-wrapper {
+    height: 350px;
+    padding: 10px;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-content: flex-start;
+    align-items: flex-start;
+
+}
+#text_dati{
+    text-align: center;
+}
+#current{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+#current span{
+    padding: 7px;
+}
+#current_manager{
+    width:100%;
+    text-align: center;
+    font-size: 20px;
+    display: flex;
+    flex-flow:column;
+    justify-content: center;
+    align-items: center;
+    align-content:center;
+
+}
+#current_manager span{
+    padding: 4px;
+}
+.loader{
+    height: 500px;
+}
+.MuiTab-textColorInherit.Mui-selected {
+    background-color: #EA9C5F;
+    font-weight: 700;
+}
+
+.logo_manager img{ 
+    width: 45px;
+    margin-top: 30px;
+}
+
+.logo_manager h1{
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+/*#vertical-tab-0{
+    display: none;
+}*/
+.PrivateTabIndicator-root-6{
+    display: none;
+}
+#manager-home{
+    display: none;
+}
+.MuiTypography-root{
+    max-height: 800px;
+}
+
+.ant-modal{
+    border-radius: 20px;
+
+}
+.ant-modal-content, .ant-modal-header, .ant-modal-footer{
+    background-color: #fce3cf !important;
+    border: none !important;
+    text-align: center !important;
+    border-radius: 20px;
+}
+.ant-btn{
+    width: 120px;
+    border-radius: 15px !important;
+}
+.soglia-rossa{
+    width: 100%;
+    margin: 10px 0 10px 0;
+    background-color: #F4A261;
+    border-radius: 20px;
+    padding: 20px;
+}
+.soglia-gialla{
+    width: 100%;
+    margin: 10px 0 10px 0;
+    background-color: #FFCC00;
+    border-radius: 20px;
+    padding: 20px;
+}
+#button-plus1{
+    margin-left: 10px;
+}
+#button-plus2{
+    margin-left: 3px;
+}
+#button-plus3{
+    margin-left: 4px;
+}
+#button-plus4{
+    margin-left: 18px;
+}
+#icon-limit{
+    margin-left: 10px;
+    margin-bottom: 2px;
+}
+#icon-limit2{
+    margin-left: 10px;
+}
+#min-limit1{
+    margin-left: 15px;
+}
+#min-limit2{
+    margin-left: 40px;
+}
+#min-limit3{
+    margin-left: 25px;
+}
+#min-limit4{
+    margin-left: 51px;
+}
+.info-limit{
+    margin: 5px 0 23px 0;
+    text-align: center;
+}

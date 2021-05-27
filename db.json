@@ -1,0 +1,351 @@
+{
+  "Dati":[
+    {
+    "CisternaUno": 
+      {
+        "temperatura": {
+          "title": "Temperatura",
+          "titleeng": "Temperature",
+          "minima": 0,
+          "rossoGiallo": 10,
+          "gialloVerde": 20,
+          "verdeGiallo": 80,
+          "gialloRosso":90,
+          "massima": 100,
+          "corrente": 83
+        },
+        "umidità": {
+          "title": "Umidità",
+          "titleeng": "Humidity",
+          "minima": 25,
+          "rossoGiallo": 30,
+          "gialloVerde": 40,
+          "verdeGiallo": 60,
+          "gialloRosso":70,
+          "massima": 75,
+          "corrente": 35
+        },
+        "pressione": {
+          "title": "Pressione",
+          "titleeng": "Pressure",
+          "minima": 50,
+          "rossoGiallo": 60,
+          "gialloVerde": 70,
+          "verdeGiallo": 100,
+          "gialloRosso":110,
+          "massima": 120,
+          "corrente": 75
+        },
+        "livello": {
+          "title": "Livello",
+          "titleeng": "Level",
+          "minima": 0,
+          "rossoGiallo": 20,
+          "gialloVerde": 40,
+          "verdeGiallo": 120,
+          "gialloRosso":140,
+          "massima": 160,
+          "corrente": 100
+        }
+      }
+      ,
+    "CisternaDue": 
+      {
+        "temperatura": {
+          "title": "Temperatura",
+          "titleeng": "Temperature",
+          "minima": 0,
+          "rossoGiallo": 10,
+          "gialloVerde": 20,
+          "verdeGiallo": 80,
+          "gialloRosso":90,
+          "massima": 100,
+          "corrente": 73
+        },
+        "umidità": {
+          "title": "Umidità",
+          "titleeng": "Humidity",
+          "minima": 25,
+          "rossoGiallo": 30,
+          "gialloVerde": 40,
+          "verdeGiallo": 60,
+          "gialloRosso":70,
+          "massima": 75,
+          "corrente": 30
+        },
+        "pressione": {
+          "title": "Pressione",
+          "titleeng": "Pressure",
+          "minima": 50,
+          "rossoGiallo": 60,
+          "gialloVerde": 70,
+          "verdeGiallo": 100,
+          "gialloRosso":110,
+          "massima": 120,
+          "corrente": 90
+        },
+        "livello": {
+          "title": "Livello",
+          "titleeng": "Level",
+          "minima": 0,
+          "rossoGiallo": 20,
+          "gialloVerde": 40,
+          "verdeGiallo": 120,
+          "gialloRosso":140,
+          "massima": 160,
+          "corrente": 60
+        }
+      }
+    ,
+    "CisternaTre": 
+      {
+        "temperatura": {
+          "title": "Temperatura",
+          "titleeng": "Temperature",
+          "minima": 0,
+          "rossoGiallo": 10,
+          "gialloVerde": 20,
+          "verdeGiallo": 80,
+          "gialloRosso":90,
+          "massima": 100,
+          "corrente": 60
+        },
+        "umidità": {
+          "title": "Umidità",
+          "titleeng": "Humidity",
+          "minima": 25,
+          "rossoGiallo": 30,
+          "gialloVerde": 40,
+          "verdeGiallo": 60,
+          "gialloRosso":70,
+          "massima": 75,
+          "corrente": 51
+        },
+        "pressione": {
+          "title": "Pressione",
+          "titleeng": "Pressure",
+          "minima": 50,
+          "rossoGiallo": 60,
+          "gialloVerde": 70,
+          "verdeGiallo": 100,
+          "gialloRosso":110,
+          "massima": 120,
+          "corrente": 83
+        },
+        "livello": {
+          "title": "Livello",
+          "titleeng": "Level",
+          "minima": 0,
+          "rossoGiallo": 20,
+          "gialloVerde": 40,
+          "verdeGiallo": 120,
+          "gialloRosso":140,
+          "massima": 160,
+          "corrente": 80
+        }
+      }
+    ,
+    "CisternaQuattro": 
+      {
+        "temperatura": {
+          "title": "Temperatura",
+          "titleeng": "Temperature",
+          "minima": 0,
+          "rossoGiallo": 10,
+          "gialloVerde": 20,
+          "verdeGiallo": 80,
+          "gialloRosso":90,
+          "massima": 100,
+          "corrente": 5
+        },
+        "umidità": {
+          "title": "Umidità",
+          "titleeng": "Humidity",
+          "minima": 25,
+          "rossoGiallo": 30,
+          "gialloVerde": 40,
+          "verdeGiallo": 60,
+          "gialloRosso":70,
+          "massima": 75,
+          "corrente": 53
+        },
+        "pressione": {
+          "title": "Pressione",
+          "titleeng": "Pressure",
+          "minima": 50,
+          "rossoGiallo": 60,
+          "gialloVerde": 70,
+          "verdeGiallo": 100,
+          "gialloRosso":110,
+          "massima": 120,
+          "corrente": 73
+        },
+        "livello": {
+          "title": "Livello",
+          "titleeng": "Level",
+          "minima": 0,
+          "rossoGiallo": 20,
+          "gialloVerde": 40,
+          "verdeGiallo": 120,
+          "gialloRosso":140,
+          "massima": 160,
+          "corrente": 30
+        }
+      }
+    ,
+    "CisternaCinque": 
+      {
+        "temperatura": {
+          "title": "Temperatura",
+          "titleeng": "Temperature",
+          "minima": 0,
+          "rossoGiallo": 10,
+          "gialloVerde": 20,
+          "verdeGiallo": 80,
+          "gialloRosso":90,
+          "massima": 100,
+          "corrente": 13
+        },
+        "umidità": {
+          "title": "Umidità",
+          "titleeng": "Humidity",
+          "minima": 25,
+          "rossoGiallo": 30,
+          "gialloVerde": 40,
+          "verdeGiallo": 60,
+          "gialloRosso":70,
+          "massima": 75,
+          "corrente": 47
+        },
+        "pressione": {
+          "title": "Pressione",
+          "titleeng": "Pressure",
+          "minima": 50,
+          "rossoGiallo": 60,
+          "gialloVerde": 70,
+          "verdeGiallo": 100,
+          "gialloRosso":110,
+          "massima": 120,
+          "corrente": 89
+        },
+        "livello": {
+          "title": "Livello",
+          "titleeng": "Level",
+          "minima": 0,
+          "rossoGiallo": 20,
+          "gialloVerde": 40,
+          "verdeGiallo": 120,
+          "gialloRosso":140,
+          "massima": 160,
+          "corrente": 92
+        }
+      }
+    ,
+    "CisternaSei": 
+      {
+        "temperatura": {
+          "title": "Temperatura",
+          "titleeng": "Temperature",
+          "minima": 0,
+          "rossoGiallo": 10,
+          "gialloVerde": 20,
+          "verdeGiallo": 80,
+          "gialloRosso":90,
+          "massima": 100,
+          "corrente": 55
+        },
+        "umidità": {
+          "title": "Umidità",
+          "titleeng": "Humidity",
+          "minima": 25,
+          "rossoGiallo": 30,
+          "gialloVerde": 40,
+          "verdeGiallo": 60,
+          "gialloRosso":70,
+          "massima": 75,
+          "corrente": 39
+        },
+        "pressione": {
+          "title": "Pressione",
+          "titleeng": "Pressure",
+          "minima": 50,
+          "rossoGiallo": 60,
+          "gialloVerde": 70,
+          "verdeGiallo": 100,
+          "gialloRosso":110,
+          "massima": 120,
+          "corrente": 81
+        },
+        "livello": {
+          "title": "Livello",
+          "titleeng": "Level",
+          "minima": 0,
+          "rossoGiallo": 20,
+          "gialloVerde": 40,
+          "verdeGiallo": 120,
+          "gialloRosso":140,
+          "massima": 160,
+          "corrente": 75
+        }
+      }
+    ,
+    "CisternaSette": 
+      {
+        "temperatura": {
+          "title": "Temperatura",
+          "titleeng": "Temperature",
+          "minima": 0,
+          "rossoGiallo": 10,
+          "gialloVerde": 20,
+          "verdeGiallo": 80,
+          "gialloRosso":90,
+          "massima": 100,
+          "corrente": 95
+        },
+        "umidità": {
+          "title": "Umidità",
+          "titleeng": "Humidity",
+          "minima": 25,
+          "rossoGiallo": 30,
+          "gialloVerde": 40,
+          "verdeGiallo": 60,
+          "gialloRosso":70,
+          "massima": 75,
+          "corrente": 55
+        },
+        "pressione": {
+          "title": "Pressione",
+          "titleeng": "Pressure",
+          "minima": 50,
+          "rossoGiallo": 60,
+          "gialloVerde": 70,
+          "verdeGiallo": 100,
+          "gialloRosso":110,
+          "massima": 120,
+          "corrente": 74
+        },
+        "livello": {
+          "title": "Livello",
+          "titleeng": "Level",
+          "minima": 0,
+          "rossoGiallo": 20,
+          "gialloVerde": 40,
+          "verdeGiallo": 120,
+          "gialloRosso":140,
+          "massima": 160,
+          "corrente": 103
+        }
+      }
+    ,
+    "circle": 
+      {
+        "cardOne": "Temperatura",
+        "cardTwo": "Pressione",
+        "cardThree": "Umidità",
+        "cardFour": "Livello"
+      }
+    
+  }
+]
+}
+
